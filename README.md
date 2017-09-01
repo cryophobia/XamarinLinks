@@ -29,3 +29,6 @@ https://xamarinhelp.com/entity-framework-core-xamarin-forms/
 
 SQLCipher
 https://www.zetetic.net/sqlcipher/
+
+AutoMapper - Entity Mapping 
+https://github.com/AutoMapper/AutoMapper/wiki/Getting-started
